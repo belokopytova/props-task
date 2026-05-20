@@ -6,7 +6,7 @@ import './css/main.css';
 const App: React.FC = () => {
   return (
     <div className="app">
-      <Listing items={etsyData} />
+      <Listing items={etsyData}/>
     </div>
   );
 };
