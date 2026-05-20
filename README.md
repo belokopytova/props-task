@@ -1,3 +1,8 @@
+[![Deploy to GitHub Pages](https://github.com/belokopytova/props-task/actions/workflows/web.yml/badge.svg)](https://github.com/belokopytova/props-task/actions/workflows/web.yml)
+
+[Ссылка на GitHub Pages](https://belokopytova.github.io/props-task/)
+
+
 Список предложений
 ===
 
